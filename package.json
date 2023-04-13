@@ -2,16 +2,16 @@
   "name": "your_id.helloworld",
   "title": "HelloWorld",
   "description": "HelloWorld extension example.",
-  "homepage": "https://github.com/staruml/HelloWorld",
+  "homepage": "https://github.com/xoiopure/HelloWorld",
   "version": "1.0.0",
   "keywords": [
     "example",
     "helloworld"
   ],
   "author": {
-    "name": "Minkyu Lee",
-    "email": "niklaus.lee@gmail.com",
-    "url": "https://github.com/niklauslee"
+    "name": "Xtra Ordinary",
+    "email": "xoiopure@gmail.com",
+    "url": "https://github.com/xoiopure"
   },
   "license": "MIT",
   "engines": {
